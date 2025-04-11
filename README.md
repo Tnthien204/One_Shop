@@ -72,7 +72,7 @@ Cài Đặt Môi Trường Phát Triển 💻:
 
 
 Clone Dự Án và Cài Đặt Dependencies 📦:
-git clone https://github.com/thuctrantrong/One_shop
+git clone https://github.com/Tnthien204/One_shop
 mvn clean install
 
 
