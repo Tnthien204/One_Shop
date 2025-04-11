@@ -3,7 +3,7 @@
 
 
 Dự án này được xây dựng bởi các thành viên của nhóm 7 bao gồm Trần Trọng Thức, Nguyễn Trọng Nghĩa và Trần Như Thiện
-https://github.com/thuctrantrong/One_shop
+https://github.com/Tnthien204/One_shop
 
 
 
